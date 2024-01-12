@@ -12,6 +12,7 @@
 I'm a Frontend Developer and Designer with 2 years of hands-on expertise in React, HTML, CSS, JavaScript, jQuery, and Bootstrap. I excel in turning problems and opportunities into simple interfaces through design and code.
 
 ### Skills
+<div style="column-count: 5; column-gap: 2em;">
 - React
 - Javascript
 - HTML5
@@ -33,6 +34,7 @@ I'm a Frontend Developer and Designer with 2 years of hands-on expertise in Reac
 - Tailwind CSS
 
 ---
+</div>
 
 ## Experience
 
