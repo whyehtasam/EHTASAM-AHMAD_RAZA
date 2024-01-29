@@ -4,7 +4,7 @@
 📍 Okhla, New Delhi - 110025
 📞 +917091451027
 ✉ ehtasam2003197@st.jmi.ac.in
-🔗 [LinkedIn](https://www.linkedin.com/in/ehtasam-ahmad-raza) | [GitHub](https://github.com/whyehtasam)
+🔗 [LinkedIn](https://www.linkedin.com/in/ehtasam-ahmad-raza) | [GitHub](https://github.com/whyehtasam) | [Poertfolio](https://ehtasamahmadraza.vercel.app)
 
 ---
 
